@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+venv
+.pixi
+*.npy
+*.npz
+*.dat
+
+# pixi environments
+.pixi
+*.egg-info
